@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Administracion de Sistemas Informáticos en Red",
+    "organization": "IES Clara del Rey",
+    "startDate": "Sept, 2021",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Fundamentos de hardware, gestión y administración de sistemas gestores de bases de datos, implantación y administración de sistemas operativos, lenguajes de marcas y sistemas de gestión de información, planificación y administración de redes, servicios de red e internet."
+    ],
+    "imageSrc": "education/graduate.png"
+  },
+
+  {
+    "role": "Licencias y certificaciones",
+    "experiences": [
+      "Data Fundamentals - IBM",
+      "SQL - DataCamp",
+      "Python - DataCamp"
+    ],
+    "imageSrc": "education/certificate.png"
+  }
+]

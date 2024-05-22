@@ -1,0 +1,18 @@
+[
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "Power BI",
+    "imageSrc": "skills/pbi1.png"
+  },
+  {
+    "title": "Power Automate",
+    "imageSrc": "skills/pa.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/py.png"
+  }
+]

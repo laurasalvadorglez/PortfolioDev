@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Especialista en Soluciones TI",
+    "organization": "Fujitsu",
+    "startDate": "Sept, 2022",
+    "endDate": "Sept, 2023",
+    "experiences": [
+      "Técnico de Modern Desktop: Proyecto de migración de infraestructura a la nube Microsoft, planificación, análisis, diseño de solución, configuración, pruebas, ejecución de despliegue.",
+      "Licenciamiento Microsoft: Análisis de necesidades de los clientes, creación de ofertas de valor añadido,  mejora de procesos de licenciamiento, control económico para optimizar rentabilidad"
+    ],
+    "imageSrc": "history/fuji1.png"
+  },
+  {
+    "role": "Administrador bases de datos",
+    "organization": "Agencia para el Empleo - Ayuntamiento de Madrid",
+    "startDate": "Ene, 2024",
+    "endDate": "Nov, 2024",
+    "experiences": ["Cuadros de mando", "Automatizaciones"],
+    "imageSrc": "history/ae.jpg"
+  }
+]

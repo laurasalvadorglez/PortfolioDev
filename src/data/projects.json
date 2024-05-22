@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Dashboards",
+    "imageSrc": "projects/project.png",
+    "description": "Some of the PBI dashboards I created",
+    "skills": ["Power BI", "Excel"],
+    "source": "https://github.com/laurasalvadorglez/dashboards/blob/main/README.md"
+  },
+  {
+    "title": "Automations",
+    "imageSrc": "projects/project.png",
+    "description": "Some of the automations I created on PA",
+    "skills": ["Power Automate"],
+    "source": "https://github.com/laurasalvadorglez/Automations/blob/main/README.md"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "Code this portfolio",
+    "skills": ["React", "Node", "CSS"],
+    "source": "https://github.com/laurasalvadorglez/PortfolioDev"
+  }
+]

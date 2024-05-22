@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Cuadros de mando",
+    "imageSrc": "projects/project.png",
+    "description": "Algunos de los cuadros de mando creados",
+    "skills": ["Power BI", "Excel"],
+    "source": "https://github.com/laurasalvadorglez/dashboards/blob/main/README.md"
+  },
+  {
+    "title": "Automatizaciones",
+    "imageSrc": "projects/project.png",
+    "description": "Algunas de las automatizaciones creadas",
+    "skills": ["Power Automate"],
+    "source": "https://github.com/laurasalvadorglez/automations/blob/main/README.md"
+  },
+  {
+    "title": "Porfolio",
+    "imageSrc": "projects/project.png",
+    "description": "Codigo de este portfolio",
+    "skills": ["React", "Node", "CSS"],
+    "source": "https://github.com/laurasalvadorglez/PortfolioDev"
+  }
+]

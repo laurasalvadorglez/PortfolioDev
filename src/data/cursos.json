@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Network Computer Systems Administration",
+    "organization": "IES Clara del Rey",
+    "startDate": "Sept, 2021",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Hardware fundamentals, management and administration of database management systems, implementation and administration of operating systems, markup languages and information management systems, network planning and administration, network and Internet services."
+    ],
+    "imageSrc": "education/graduate.png"
+  },
+
+  {
+    "role": "Licenses & certifications",
+    "experiences": [
+      "Data Fundamentals - IBM",
+      "SQL - DataCamp",
+      "Python - DataCamp"
+    ],
+    "imageSrc": "education/certificate.png"
+  }
+]

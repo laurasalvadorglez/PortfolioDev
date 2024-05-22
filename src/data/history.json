@@ -1,0 +1,21 @@
+[
+  {
+    "role": "IT Solutions Specialist",
+    "organization": "Fujitsu",
+    "startDate": "Sept, 2022",
+    "endDate": "Sept, 2023",
+    "experiences": [
+      "Modern Desktop Technician: Microsoft cloud infrastructure migration project, planning, analysis, solution design, configuration, testing, deployment execution.",
+      "Microsoft Licensing: Analysis of customer needs, creation of value-added offers, improvement of licensing processes, economic control to optimize profitability."
+    ],
+    "imageSrc": "history/fuji1.png"
+  },
+  {
+    "role": "Database administrator",
+    "organization": "Madrid City Council",
+    "startDate": "Ene, 2024",
+    "endDate": "Nov, 2024",
+    "experiences": ["Dahsboards", "Automations"],
+    "imageSrc": "history/ae.jpg"
+  }
+]
