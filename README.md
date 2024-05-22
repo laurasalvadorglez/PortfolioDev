@@ -4,7 +4,7 @@ Codigo creado con React + Vite
 
 
 
-//To update
+#To update
 git init
 git commit -m "commit name"
 git branch -M main
